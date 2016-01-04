@@ -1,0 +1,28 @@
+name: TYGER Cars
+favicon: null
+layout_spectrum: 0.8858072645962238
+typography_spectrum: 0.459278431488201
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5661212457343936
+  lightness: 0.7718156261835247
+  saturation: 0.3471325112041086
+  rhythmicContrast: 0.179028992773965
+purpose: []
